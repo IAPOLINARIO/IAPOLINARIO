@@ -35,6 +35,6 @@ I just started the project #100DaysOfCode, where I commited myself to code every
 
 ## How to reach me 📫
 
-- Linkedin: https://www.linkedin.com/in/ismaelapolinario/
-- Email: ismaelapolinario@hotmail.com
-- Twiter: @iapolinario
+- Linkedin: https://www.linkedin.com/in/ismaelapolinario/ 📄
+- Email: ismaelapolinario@hotmail.com ✉️
+- Twiter: [@iapolinario](https://twitter.com/iapolinario) 🐳
