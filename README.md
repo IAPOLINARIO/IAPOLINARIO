@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-I'm glad you are here, looking at my profile and problably thinking: What the hell am I doing here?
+I'm glad you are here, looking at my profile and probably thinking: What the hell am I doing here?
 Well, I don't have an answer for that, but I hope you can find something useful in one of my repos.
 
 ## Public information 💬
