@@ -10,7 +10,7 @@ I'm a Software Developer by heart, with 15+ years of experience in a very wide s
 
 On my free time, I like to spend time with my daughters and play FIFA (wanna challenge me? Just add me on Origin: lacratreze).
 
-## Detailed information
+## Detailed information 📘
 
 - **Name**: Ismael Apolinario
 - **Age**: 32++
@@ -33,6 +33,7 @@ On my free time, I like to spend time with my daughters and play FIFA (wanna cha
 - I have a Chameleon named Vampeta 🦎
 - I hate fishing. My dad used to take me along with him to my grandpa farm when I was a kid and it was too boring for a little boy that just wanted to play videogames.
 - I was born at my mom's birthday (best present ever !!!) 🎂
+- I love to read (mainly philosofy and sci-fi) 📚
 
 ## How to reach me 📫
 
