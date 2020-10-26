@@ -20,7 +20,8 @@ On my free time, I like to spend time with my daughters and play FIFA (wanna cha
 
 ## What I’m currently doing 🌱
 
-I just started the project #100DaysOfCode, where I commited myself to code everyday for at least 1 hour. I'm also very eager to learn more about Golang, Kubernetes and public cloud in general.
+- I just started the project [#100DaysOfCode](https://github.com/IAPOLINARIO/100-days-of-code), where I commited myself to code everyday for at least 1 hour. You can (and should) also join the project!
+- I'm also very eager to learn more about Golang, Kubernetes and public cloud in general.
 
 ## Curiosities about me ⚡
 
