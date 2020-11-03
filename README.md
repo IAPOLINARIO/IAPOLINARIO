@@ -3,6 +3,10 @@
 I'm glad you are here, looking at my profile and probably thinking: What the hell am I doing here?
 Well, I don't have an answer for that, but I hope you can find something useful in one of my repos.
 
+
+![Ismael's github stats](https://github-readme-stats.vercel.app/api?username=iapolinario&show_icons=true&theme=radical)
+
+
 ## Public information 💬
 
 My name is Ismael Apolinario. I'm a brazilian, but currently I live in Amsterdam, Netherlands. And before you ask: no, I'm not writing this smoking marijuana 🚬, riding a bike 🚲 or sitting in the top of a windmill.
@@ -34,6 +38,9 @@ On my free time, I like to spend time with my daughters and play FIFA (wanna cha
 - I hate fishing. My dad used to take me along with him to my grandpa farm when I was a kid and it was too boring for a little boy that just wanted to play videogames.
 - I was born at my mom's birthday (best present ever !!!) 🎂
 - I love to read (mainly philosofy and sci-fi) 📚
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iapolinario&layout=compact)](https://github.com/iapolinario/github-readme-stats)
+
 
 ## How to reach me 📫
 
