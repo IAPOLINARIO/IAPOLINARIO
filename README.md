@@ -8,7 +8,7 @@ Well, I don't have an answer for that, but I hope you can find something useful 
 ![Ismael's github stats](https://github-readme-stats.vercel.app/api?username=iapolinario&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iapolinario&layout=compact)](https://github.com/iapolinario/github-readme-stats)
 
-<script src="https://tryhackme.com/badge/284785"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ismaelapolinario.png" alt="TryHackMe">
 
 ## Public information 💬
 
