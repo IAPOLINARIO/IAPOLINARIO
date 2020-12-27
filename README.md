@@ -5,7 +5,7 @@ Well, I don't have an answer for that, but I hope you can find something useful 
 
 ## Interesting Stats
 
-![TryHackMe](https://github.com/IAPOLINARIO/IAPOLINARIO/blob/main/ismaelapolinario.png?raw=true) <br />
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ismaelapolinario.png?raw=true) <br />
 ![Ismael's github stats](https://github-readme-stats.vercel.app/api?username=iapolinario&show_icons=true&theme=radical)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iapolinario&layout=compact)](https://github.com/iapolinario/github-readme-stats)
 
