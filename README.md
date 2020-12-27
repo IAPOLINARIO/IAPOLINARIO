@@ -3,9 +3,12 @@
 I'm glad you are here, looking at my profile and probably thinking: What the hell am I doing here?
 Well, I don't have an answer for that, but I hope you can find something useful in one of my repos.
 
+## Interesting Stats
+
 ![Ismael's github stats](https://github-readme-stats.vercel.app/api?username=iapolinario&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iapolinario&layout=compact)](https://github.com/iapolinario/github-readme-stats)
 
+<script src="https://tryhackme.com/badge/284785"></script>
 
 ## Public information 💬
 
